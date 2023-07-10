@@ -1,0 +1,24 @@
+.login-form{
+    width: 60%;
+    margin: 0 auto;
+    border: 2px solid rgb(28, 27, 29);
+    margin-top: 4em;
+    border-radius:solid  5px;
+    background-color: rgb(163, 161, 161);
+}
+.login-form > input{
+    padding: 12px 20px;
+    width: 70%;
+    border: solid 1px #080808;
+    border-radius: 5px;
+}
+.login-form > button{
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    background-color: rgb(121, 206, 25);
+    border-radius: 5px;
+    color: #0a0101;
+    cursor: pointer;
+    border: 2px solid black;
+}
